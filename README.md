@@ -1,9 +1,9 @@
 # ...
 ...
 
-Information | Link
+Info | URL
 --- | ---
-Data Sources | https://energydata.info/dataset/nigeria-solar-radiation-measurement-data
-Code Repositories | --
+Data Sources | [Nigeria Solar Radiation Measurement Data](https://energydata.info/dataset/nigeria-solar-radiation-measurement-data)
+Notebooks | --
 
 	
