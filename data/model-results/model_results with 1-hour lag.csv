@@ -1,0 +1,21 @@
+Model Name,Target,RMSE,MAE,Elapsed Time(s)
+Linear Regression without Covariates on 1-hour lag,Wind Speed,0.9480025606759589,0.6783886230786677,10.789330244064331
+Linear Regression with Covariates on 1-hour lag,Wind Speed,0.8994092999134581,0.6389204512838647,14.068113327026367
+Linear Regression without Covariates on 1-hour lag,Wind Direction,98.8170879319143,70.10302398172661,11.565558433532715
+Linear Regression with Covariates on 1-hour lag,Wind Direction,98.58617428654402,71.72597068156863,14.422303438186646
+Random Forest Regression without Covariates on 1-hour lag,Wind Speed,0.9455871950303542,0.6735889672169294,27.05958366394043
+Random Forest Regression with Covariates on 1-hour lag,Wind Speed,0.9103974592331353,0.6409933277731442,26.67915940284729
+Random Forest Regression without Covariates on 1-hour lag,Wind Direction,106.34049048737236,74.94942025498598,23.39338493347168
+Random Forest Regression with Covariates on 1-hour lag,Wind Direction,97.08484158577801,68.5469749791493,26.522031545639038
+CatBoost Model without Covariates on 1-hour lag,Wind Speed,0.9437993139038172,0.672260258472549,13.722816944122314
+CatBoost Model with Covariates on 1-hour lag,Wind Speed,0.8801044090973525,0.6194970161986904,16.340742826461792
+CatBoost Model without Covariates on 1-hour lag,Wind Direction,96.20984914498821,67.13236550701566,13.964680910110474
+CatBoost Model with Covariates on 1-hour lag,Wind Direction,94.51849488536908,67.46713510991977,15.745319604873657
+LightGBM Model without Covariates on 1-hour lag,Wind Speed,0.9393627348842792,0.6729153229121277,12.313384056091309
+LightGBM Model with Covariates on 1-hour lag,Wind Speed,0.8815537744686914,0.6231962576540092,13.678460121154785
+LightGBM Model without Covariates on 1-hour lag,Wind Direction,96.4640231868039,67.24575446829925,12.622720003128052
+LightGBM Model with Covariates on 1-hour lag,Wind Direction,95.30860486246019,68.14598492623986,14.438583850860596
+XGBoost Model without Covariates on 1-hour lag,Wind Speed,0.9516728798578478,0.6736829374311764,11.91390085220337
+XGBoost Model with Covariates on 1-hour lag,Wind Speed,0.9392657754070591,0.6602799621896136,14.99100637435913
+XGBoost Model without Covariates on 1-hour lag,Wind Direction,99.86562881137232,68.7216856834787,12.463401079177856
+XGBoost Model with Covariates on 1-hour lag,Wind Direction,100.09041317894237,71.78632888257056,14.83252215385437
