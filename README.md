@@ -37,7 +37,7 @@ darts-model-for-wind-speed-direction-prediction/
 │       ├── model_results with 48-hour lag.csv		# data containing all model results using 48-hour lag
 │       └── model_results with neural networks.csv	# data containing all model results using neural networks
 ├
-├── notebooks						# folder with notebooks containing EDA and different implementation of the darts models with different lags + neural networks
+├── notebooks						# folder with jupyter notebooks implemented for the project
     ├── EDA.ipynb					# Exploratory data analysis findings notebook	
     ├── Darts_Predict_WD_WS_Lag_1.ipynb			# Different darts model implementation with 1-hour lag
     ├── Darts_Predict_WD_WS_Lag_2.ipynb			# Different darts model implementation with 2-hour lag
