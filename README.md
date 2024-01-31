@@ -1,4 +1,4 @@
-# Darts Model application for wind energy prediction in Nigeria
+# Darts Model application for wind energy prediction
 Accurate prediction of wind direction and speed are important for various sectors, including aviation, energy production, and public safety. This work is motivated by the need to improve the accuracy and efficiency of wind direction and speed forecasts in Nigeria, which can have significant impacts on various sectors.
 
 The aim of this project is to compare the different machine learning algorithms available in Darts Model to know how accurately we can predict `wind direction` and `wind speed` in Bauchi State, a Northern Nigerian State. This work can inform other States prediction with available data.
