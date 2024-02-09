@@ -12,7 +12,7 @@ Different evaluation metrics, such as mean absolute error (MAE) and root mean sq
 Info | Description and Links
 --- | ---
 Data Main Source | [Nigeria Solar Radiation Measurement Data](https://energydata.info/dataset/nigeria-solar-radiation-measurement-data)
-Journal Publication | [Link would be posted soon](#) </br> citation:.
+Journal Publication | [Link Here]([#](https://www.researchgate.net/publication/378041732_Application_Of_Darts_Model_For_Comparing_Machine_Learning_Algorithms_To_Predict_Wind_Speed_And_Direction_Using_Solar_Data)) </br> citation:.
 
 ## Repository Tree
 ```bash
